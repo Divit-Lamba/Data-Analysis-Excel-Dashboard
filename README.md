@@ -28,7 +28,7 @@ This project demonstrates complete workflow skills — from **data cleaning** to
 
 ## 💡 Purpose  
 
-This dashboard helps visualize key production metrics, track performance trends, and compare efficiency across managers and product types — all in one interactive, easy-to-navigate interface.  
+This dashboard helps visualize key production metrics, track performance trends, and compare efficiency across managers and product types, all in one interactive, easy-to-navigate interface.  
 
 ---
 ## 📄 Project File  
