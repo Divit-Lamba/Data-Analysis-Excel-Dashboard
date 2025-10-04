@@ -31,3 +31,6 @@ This project demonstrates complete workflow skills — from **data cleaning** to
 This dashboard helps visualize key production metrics, track performance trends, and compare efficiency across managers and product types — all in one interactive, easy-to-navigate interface.  
 
 ---
+## 📄 Project File  
+
+👉 [Click here to view/download the Excel Dashboard](https://github.com/Divit-Lamba/Data-Analysis-Excel-Dashboard/blob/main/Production%20Dashboard.xlsx)
